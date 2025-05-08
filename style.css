@@ -1,0 +1,18 @@
+/* ini contoh css external */
+h1 {
+    font-size : 20px;
+    font-family: 'Times New Roman';
+    color : rgb(0, 0, 250);
+    /* contoh rgb */
+    background-color: red;
+    text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 75px;
+  }
+table, th, td {
+    border: 1px solid green;
+    border-collapse: collapse;
+}
